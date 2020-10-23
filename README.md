@@ -1,2 +1,2 @@
 # TF.NET.ClassificationExample
-An example demonstrate issue in ML.NET when using TF.NET model.
+An ASP.NET Core application demonstrates an issue in ML.NET when using TF.NET model.
